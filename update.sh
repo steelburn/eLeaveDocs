@@ -188,6 +188,7 @@ main()
       else
 	echo ${UPDATES}
       fi
+      unset WORKINGDREPO
       popd
     fi
   done
