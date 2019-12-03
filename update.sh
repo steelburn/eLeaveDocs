@@ -3,7 +3,7 @@
 WWWDIR=/www/html
 KARMAFILES="karma.conf.js src/karma.conf.js"
 SYNCDIRS="documentation html-report"
-REPOLIST="eLeaveCore eleave-v3 eLeave_admin-V3 eLeave_tenant-V1 eLeaveTenantCore"
+REPOLIST="eLeaveCore eleave-v3 eLeave_admin-V3 eLeave_tenant-V1 eLeaveTenantCore eLeaveForgetPasswordCore"
 
 # Packages needed for rework of default index.html file
 BULMAREPO=https://github.com/jgthms/bulma.git
